@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 House Price Prediction
 
 > Predicting residential property prices using machine learning — combining classical statistical methods with modern ensemble models.
@@ -83,7 +84,7 @@ This project leverages methods studied in the **Master 1 Mathématiques & Applic
 ### Prerequisites
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git https://github.com/1MedAmine/house-price-prediction
 cd house-price-prediction
 pip install -r requirements.txt
 ```
@@ -116,10 +117,13 @@ jupyter notebook notebooks/01_EDA.ipynb
 
 **Mohammed-Amine Chnidguira**
 Master 1 Mathématiques & Applications — Université de Lorraine (IECL), Nancy
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/mohammed-amine-chnidguira-57215a244/) · [GitHub](https://github.com/1MedAmine)
 
 ---
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# house-price-prediction
+>>>>>>> 4da84c1f826e4e815d6dae8599d9c68386d4dbbc
