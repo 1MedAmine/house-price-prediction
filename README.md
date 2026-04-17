@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏠 House Price Prediction
 
 > Predicting residential property prices using machine learning — combining classical statistical methods with modern ensemble models.
@@ -12,7 +11,7 @@
 
 ## 📌 Project Overview
 
-This project applies supervised learning techniques to predict house sale prices from the [Ames Housing Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) (Kaggle). It goes beyond standard modeling by integrating **dimensionality reduction (PCA)** and **Gaussian mixture clustering (EM algorithm)** — techniques studied during my Master's in Applied Mathematics at Université de Lorraine.
+This project applies supervised learning techniques to predict house sale prices from the [Ames Housing Dataset](https://www.kaggle.com/competitions/home-data-for-ml-course) (Kaggle). It goes beyond standard modeling by integrating **dimensionality reduction (PCA)** and **Gaussian mixture clustering (EM algorithm)** 
 
 **Key goals:**
 - Perform thorough exploratory data analysis (EDA)
@@ -91,7 +90,7 @@ pip install -r requirements.txt
 
 ### Download the Data
 
-1. Go to [Kaggle — House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+1. Go to [Kaggle — House Prices](https://www.kaggle.com/competitions/home-data-for-ml-course)
 2. Download `train.csv` and `test.csv`
 3. Place them in the `data/` folder
 
@@ -124,6 +123,3 @@ Master 1 Mathématiques & Applications — Université de Lorraine (IECL), Nancy
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-=======
-# house-price-prediction
->>>>>>> 4da84c1f826e4e815d6dae8599d9c68386d4dbbc
