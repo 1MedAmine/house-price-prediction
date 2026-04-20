@@ -84,6 +84,11 @@ house-price-prediction/
 
 > **Best model: Lasso Regression** — R² = 0.90 · Kaggle Public Score: **13510**
 
+## 📈 R Analysis Report
+
+Complementary R analysis with ggplot2 visualizations:  
+👉 [View Report on RPubs](https://rpubs.com/med_Amine/house-price-prediction)
+
 ---
 
 ## 🚀 Getting Started
