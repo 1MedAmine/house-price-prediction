@@ -114,7 +114,7 @@ Trained and compared 9 models on an 80/20 train/test split:
 | SVR | 0.0000 |
 | GBR | 0.0058 |
 
-**Final blend RMSE : 0.1179 · Kaggle Public Score : 13431**
+**Final blend RMSE : 0.1179 (log-price, local CV) · Kaggle Public Score : 13431.52 MAE ($) — 131st / 3878 teams (top ~3.4 %)** on the public leaderboard.
 
 ---
 
